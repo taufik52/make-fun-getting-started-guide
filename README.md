@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/taufik52/make-fun-getting-started-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/taufik52/make-fun-getting-started-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-**Joining make.fun? Use my invite link to get started: [https://make.fun/r/bvwh0bz2](https://make.fun/r/bvwh0bz2) — referral code `bvwh0bz2`.**
+**New to make.fun? Start here with my invite link: [https://make.fun/r/bvwh0bz2](https://make.fun/r/bvwh0bz2) — referral code `bvwh0bz2`.**
 
-Signing up through that link costs nothing. It just connects your new account to mine, so if this guide helps you land a win, a small referral share comes my way at no cost to you.
+Joining through that link is free. It simply ties your new account to mine, so if this guide helps you place in a bounty, a small referral share comes my way at no cost to you.
 
-This page is a field guide for a complete beginner: someone who has heard of make.fun, owns an AI coding assistant, and wants to go from "never opened the site" to "entry submitted" in one sitting. Everything below was written from hands-on use of the platform, not copied from its docs. If you already have an entry or two behind you, skip straight to [Practical tips from real submissions](#practical-tips-from-real-submissions) — the first half is for first-timers.
+This is a hands-on field guide for a complete beginner: you have heard of make.fun, you have an AI coding assistant, and you want to go from "never opened the site" to "entry submitted" in a single sitting. Everything below comes from actually using the platform, not from retyping its docs. Already entered a bounty or two? Jump straight to [Practical tips from real submissions](#practical-tips-from-real-submissions) — the first half is for first-timers.
 
 ## What you will find here
 
@@ -31,13 +31,13 @@ This page is a field guide for a complete beginner: someone who has heard of mak
 
 make.fun is a marketplace where tasks are posted as bounties with a cash prize attached, and people solve them together with an AI coding agent. A sponsor posts something they want built — a small app, a trading bot, a game, a forecast model, an article, a guide like this one — along with a deadline and a prize in USDC. You pick a task, your agent builds the entry, you submit it, and if the result places, the prize lands in your Solana wallet.
 
-Three things make it different from a freelance board or a weekend hackathon:
+Three things set it apart from a freelance board or a weekend hackathon:
 
 - **You work alone, on your own clock.** There is no team to join and no event to attend. Bounties open and close on their own dates; you decide which ones to take on.
-- **Your agent is the builder.** The platform is designed around AI coding assistants — Claude Code, Codex, Cursor, Copilot, Gemini CLI, Qwen Code, opencode, Cline, Aider, and many others. You steer; the agent writes.
+- **Your agent is the builder.** The platform is built around AI coding assistants — Claude Code, Codex, Cursor, Copilot, Gemini CLI, Qwen Code, opencode, Cline, Aider, and many others. You steer; the agent writes.
 - **The prize is already sitting in escrow when the bounty opens.** It is not a promise to pay later. The full reward is locked on-chain on Solana before anyone starts, and winners claim from that escrow. The escrow program is open source at [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow).
 
-Most bounties cost nothing to enter. When one does charge a fee, the bounty page says so clearly, and the fee feeds that bounty's own prize pool.
+Most bounties cost nothing to enter. When one does charge a fee, the bounty page says so plainly, and the fee feeds that bounty's own prize pool.
 
 ## Your setup checklist
 
@@ -183,6 +183,8 @@ The `--us-person` flag answers the screen's one question — say `yes` if you ar
 
 One scoring detail worth knowing in advance: **an exact tie goes to the earlier entry.** If two entries score the same, the one submitted first takes the higher place. Submitting a solid entry early beats polishing a perfect one past the deadline.
 
+For a referral bounty like this one, the prize pool is shared across the top 50 entries — first place takes the largest share, and every placed entry down to 50th earns something — so even a modest number of verified signups can pay.
+
 ## The referral program
 
 Every account gets a referral link in the form `https://make.fun/r/<code>` — and `?ref=<code>` tacked onto any make.fun page works the same way. When someone signs up through your link and takes part, you earn USDC rewards, plus a share of what they win for a while after they sign up. make.fun pays that share on top, so the new person's own reward is never reduced.
@@ -202,6 +204,7 @@ My link, once more: [https://make.fun/r/bvwh0bz2](https://make.fun/r/bvwh0bz2), 
 - **Read the scoring section twice.** Every bounty scores differently. Some reward speed, some reward accuracy, some reward signups. Build toward the actual rubric, not the generic idea of "good".
 - **Do not fight the transcript gate.** Let the agent write the code in the session you will submit. Pasting finished code in from elsewhere is the fastest way to fail authorship.
 - **Mind the daily limit.** Most bounties cap entries per day and in total. Save at least one attempt for a final fix after the last local grade.
+- **For a referral bounty, the guide is only half the job.** Once it is live, share it where real builders hang out — a group chat, a forum thread, a post — and answer the first questions people ask about it. One genuine signup beats a hundred page views.
 
 ## Troubleshooting
 
